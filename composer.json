@@ -1,0 +1,15 @@
+{
+  "name": "ryby/mocking-tools",
+  "author": "Jakub Filla",
+  "require": {
+    "mockery/mockery": "^0.9.7"
+  },
+  "require-dev": {
+    "nette/tester": "^1.7"
+  },
+  "autoload": {
+    "psr-4": {
+      "MockingTools\\": "src/"
+    }
+  }
+}
