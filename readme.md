@@ -1,5 +1,5 @@
-# Ryby/MockingTools
+# MockingTools
 
 ## Instalation
 
-`composer require ryby/mocking-tools`
+`composer require jfilla/mocking-tools`
