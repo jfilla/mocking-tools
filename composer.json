@@ -2,7 +2,7 @@
   "name": "jfilla/mocking-tools",
   "author": "Jakub Filla",
   "require": {
-    "mockery/mockery": "^0.9.7"
+    "mockery/mockery": "dev-master"
   },
   "require-dev": {
     "nette/tester": "^1.7"
