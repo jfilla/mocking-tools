@@ -1,5 +1,5 @@
 {
-  "name": "ryby/mocking-tools",
+  "name": "jfilla/mocking-tools",
   "author": "Jakub Filla",
   "require": {
     "mockery/mockery": "^0.9.7"
